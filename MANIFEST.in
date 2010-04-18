@@ -1,0 +1,3 @@
+include todo/config/deployment.ini_tmpl
+recursive-include todo/public *
+recursive-include todo/templates *
